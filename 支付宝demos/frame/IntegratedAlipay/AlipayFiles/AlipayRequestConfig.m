@@ -3,8 +3,8 @@
 //  IntegratedAlipay
 //
 //  Created by Winann on 15/1/9.
-//  Copyright (c) 2015年 Winann. All rights reserved. 
-//
+//  Copyright (c) 2015年 Winann. All rights reserved.
+//这是一些东西
 
 #import "AlipayRequestConfig.h"
 
